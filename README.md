@@ -1,4 +1,4 @@
-<h1>Eye Glare Mitigation Through Inpainting-Based Mechanism<h1>
+<h1>Iris detection and Glare Mitigation utilizing Inpainting Mechanism<h1>
   
 <h4>What is iris detection?</h4>
 <p>Iris detection in biometrics refers to the process of capturing and identifying the unique 
